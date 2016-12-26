@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<style>
+  body {
+    background: #6f03f0;
+    background-position: center;
+    background-size: cover;
+    border: 15px dashed #00f4ff;
+  }
+	
+  h1 {
+    text-align: center;
+    font-size: 60px;
+    color: #f022ff;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+	
+  p {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #4dcf04;
+    font-size:30px;
+    text-align: center;
+  }
+	
+  h2 {
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #00f06f;
+  }
+	
+ img {
+    display: block;
+    margin: auto;
+    max-width: 75%;
+ }
+</style>
+
+<html>
+<head>
+  <title>Afua's Practice</title>
+</head>
+
+<body>
+  <h1>CATS!!!</h1>
+  <h2>grumpy</h2>
+  <p>
+  <img src="http://static.dnaindia.com/sites/default/files/styles/half/public/2016/12/26/532326-505196-domestic-cat-animal-birmingham-england-lg-arena-leisure-activity-lifestyles-national-exhibition-centre-uk-getty-images.jpg?itok=OjfZ9Pjz"></p>
+
+  <h2> christmas</h2>
+ <p> <img src="https://cdn.discordapp.com/attachments/231837148418932737/262109822055350272/cats-animals-christmas-kittens-christmas-tree-2560x1600-wallpaper.png" align="center"></p>
+
+  <h2>many cats in a box</h2>
+  <p><img src="https://cdn.discordapp.com/attachments/231837148418932737/254160899504340995/unknown.png" align="center"></p>
+
+  <h2>lovey</h2>
+  <p><img src="https://cdn.discordapp.com/attachments/231837148418932737/254158956841271296/tumblr_nvi831Vatu1rjn2yfo1_540.png" align="center">
+  </p>
+</body>
+</html>
