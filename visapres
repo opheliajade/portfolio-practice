@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<style>
+  body {
+    background: #6f03f0;
+    background-position: center;
+    background-size: cover;
+    border: 15px dashed #00f4ff;
+  }
+  h1 {
+    text-align: center;
+    font-size: 60px;
+    color: #f022ff;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+  p {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #4dcf04;
+    font-size:30px;
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #00f06f;
+    
+  }
+ img {
+    display: block;
+    margin: auto;
+    max-width: 75%;
+ }
+</style>
+<html>
+<head>
+  <title>Afua's Practice</title>
+
+</head>
+<body>
+  <h1>Algorithmic Menagerie<h1>
+  <iframe src="https://player.vimeo.com/video/97582678" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <h1>Portal 2.0</h1>
+  
+   <h1>Ameba</h1>
+</body>
+</html>
